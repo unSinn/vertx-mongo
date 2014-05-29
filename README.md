@@ -1,3 +1,8 @@
+
+vertx-mongo
+===========
+
+
 # Vert.x Gradle Template
 
 Template project for creating a Vert.x module with a Gradle build.
